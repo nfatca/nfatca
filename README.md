@@ -6,8 +6,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=nfatca&label=Profile%20views&color=0e75b6&style=flat" alt="nfatca" /> </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fatca&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-  
+[![trophy](https://github-profile-trophy.vercel.app/?nfatca=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
   
 
 🔭 I’m currently working on **JAVASCRIPT & REACT JS & PYTHON & DJANGO**
