@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-//  <img src=" " alt="P4ABkb.png" border="0" />
+
   
 <p> <img src="https://komarev.com/ghpvc/?username=nfatca&label=Profile%20views&color=0e75b6&style=flat" alt="nfatca" /> </p>
 
