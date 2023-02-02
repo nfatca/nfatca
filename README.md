@@ -39,6 +39,4 @@
   
   [![N.Furkan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nfatca&theme=react-dark)](https://github.com/nfatca/github-readme-activity-graph)
   
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nfatca&theme=vision-friendly-dark&hide_border=true" /> 
-  </div>
 
